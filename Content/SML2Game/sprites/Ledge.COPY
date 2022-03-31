@@ -1,0 +1,46 @@
+Begin Object Class=/Script/Paper2D.PaperSprite Name="Ledge"
+   Begin Object Class=/Script/Engine.BodySetup Name="BodySetup_28"
+   End Object
+   Begin Object Name="BodySetup_28"
+      AggGeom=(BoxElems=((Center=(X=0.000000,Y=0.000000,Z=11.718750),X=598.437500,Y=100.000000,Z=173.437500)))
+      DefaultInstance=(ObjectType=ECC_WorldDynamic,CollisionProfileName="BlockAllDynamic")
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   SourceUV=(X=1.000000,Y=1.000000)
+   SourceDimension=(X=766.000000,Y=252.000000)
+   SourceTexture=/Game/2DSideScroller/Textures/2DBackgroundBlockAtlas.2DBackgroundBlockAtlas
+   BakedSourceUV=(X=1.000000,Y=1.000000)
+   BakedSourceDimension=(X=766.000000,Y=252.000000)
+   BakedSourceTexture=Texture2D'"/Game/2DSideScroller/Textures/2DBackgroundBlockAtlas.2DBackgroundBlockAtlas"'
+   PixelsPerUnrealUnit=1.280000
+   BodySetup=BodySetup'"BodySetup_28"'
+   CustomPivotPoint=(X=384.000000,Y=127.000000)
+   bSnapPivotToPixelGrid=False
+   CollisionGeometry=(Shapes=((Vertices=((X=-383.000000,Y=-111.000000),(X=383.000000,Y=-111.000000),(X=383.000000,Y=111.000000),(X=-383.000000,Y=111.000000)),BoxSize=(X=766.000000,Y=222.000000),BoxPosition=(X=384.000000,Y=112.000000))))
+   CollisionThickness=100.000000
+   RenderGeometry=(Shapes=((ShapeType=Polygon,Vertices=((X=1.000000,Y=1.000000),(X=767.000000,Y=1.000000),(X=767.000000,Y=33.000000),(X=742.000000,Y=33.000000),(X=742.000000,Y=134.000000),(X=659.000000,Y=223.000000),(X=384.000000,Y=223.000000),(X=110.000000,Y=223.000000),(X=25.000000,Y=137.000000),(X=25.000000,Y=33.000000),(X=1.000000,Y=33.000000)))),GeometryType=FullyCustom)
+   BakedRenderData(0)=(X=279.687500,Y=73.437500,Z=0.724609,W=0.032227)
+   BakedRenderData(1)=(X=299.218750,Y=73.437500,Z=0.749023,W=0.032227)
+   BakedRenderData(2)=(X=299.218750,Y=98.437500,Z=0.749023,W=0.000977)
+   BakedRenderData(3)=(X=279.687500,Y=73.437500,Z=0.724609,W=0.032227)
+   BakedRenderData(4)=(X=299.218750,Y=98.437500,Z=0.749023,W=0.000977)
+   BakedRenderData(5)=(X=-299.218750,Y=98.437500,Z=0.000977,W=0.000977)
+   BakedRenderData(6)=(X=279.687500,Y=-5.468750,Z=0.724609,W=0.130859)
+   BakedRenderData(7)=(X=279.687500,Y=73.437500,Z=0.724609,W=0.032227)
+   BakedRenderData(8)=(X=-299.218750,Y=98.437500,Z=0.000977,W=0.000977)
+   BakedRenderData(9)=(X=214.843750,Y=-75.000000,Z=0.643555,W=0.217773)
+   BakedRenderData(10)=(X=279.687500,Y=-5.468750,Z=0.724609,W=0.130859)
+   BakedRenderData(11)=(X=-299.218750,Y=98.437500,Z=0.000977,W=0.000977)
+   BakedRenderData(12)=(X=-280.468750,Y=-7.812500,Z=0.024414,W=0.133789)
+   BakedRenderData(13)=(X=-214.062500,Y=-75.000000,Z=0.107422,W=0.217773)
+   BakedRenderData(14)=(X=214.843750,Y=-75.000000,Z=0.643555,W=0.217773)
+   BakedRenderData(15)=(X=-280.468750,Y=73.437500,Z=0.024414,W=0.032227)
+   BakedRenderData(16)=(X=-280.468750,Y=-7.812500,Z=0.024414,W=0.133789)
+   BakedRenderData(17)=(X=214.843750,Y=-75.000000,Z=0.643555,W=0.217773)
+   BakedRenderData(18)=(X=-280.468750,Y=73.437500,Z=0.024414,W=0.032227)
+   BakedRenderData(19)=(X=214.843750,Y=-75.000000,Z=0.643555,W=0.217773)
+   BakedRenderData(20)=(X=-299.218750,Y=98.437500,Z=0.000977,W=0.000977)
+   BakedRenderData(21)=(X=-280.468750,Y=73.437500,Z=0.024414,W=0.032227)
+   BakedRenderData(22)=(X=-299.218750,Y=98.437500,Z=0.000977,W=0.000977)
+   BakedRenderData(23)=(X=-299.218750,Y=73.437500,Z=0.000977,W=0.032227)
+End Object
