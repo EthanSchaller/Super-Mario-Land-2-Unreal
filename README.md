@@ -6,9 +6,9 @@
  
  List of Sprites Ripped and who did them:
 -----------------------------------------------------------------------------------------------------
-| Dragezeey - Bell Sprites - mariouniverse.com |
-| Mister Man + Snessy The Duck - Mario and Power-up Sprites - spriters-resource.com |
-| Raccoon Sam - Starter Course Layout Sprite (Edited and used as Background) - spriters-resource.com |
-| TheWolfBunny - HUD Sprite - mariouniverse.com |
-| Ecxelior - Songs - mfgg.net |
-| A.J. Nitro. - Goomba - mariouniverse.com |
+| Dragezeey - Bell Sprites - mariouniverse.com |<br/>
+| Mister Man + Snessy The Duck - Mario and Power-up Sprites - spriters-resource.com |<br/>
+| Raccoon Sam - Course Layout Sprite (Edited and used as Background/foreground) - spriters-resource.com |<br/>
+| TheWolfBunny - Game HUD Sprite - mariouniverse.com |<br/>
+| Ecxelior - Songs - mfgg.net |<br/>
+| A.J. Nitro. - Goomba and Koopa - mariouniverse.com |<br/>
